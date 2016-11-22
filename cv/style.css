@@ -9,7 +9,8 @@
  background-color: lightblue;
 }
  
- .right{
-  width: 70%
+.right{
+ width: 70%
  background-color: grey;
+ float: right;
 }
