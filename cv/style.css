@@ -6,10 +6,10 @@
 
 .left{
  width: 30%
- backgroundcolor: lightblue;
+ background-color: lightblue;
 }
  
  .right{
   width: 70%
-  nackground-color: grey
+ background-color: grey;
 }
