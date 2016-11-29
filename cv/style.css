@@ -14,3 +14,8 @@
  background-color: grey;
  float: right;
 }
+
+
+@media screen and (max-width: 600px) {
+  .left, .right{
+    width
